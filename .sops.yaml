@@ -1,0 +1,3 @@
+creation_rules:
+    - encrypted_regex: '^(data|stringData)$' # will only encrypt under data/stringData 
+      age: age17wrvunvmx52augeju9635ad86mtva7hndp8rv37lm7t6k7a2jpmqqtz3re
